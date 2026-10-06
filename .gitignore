@@ -1,0 +1,5 @@
+ta/source/ 
+data/raw/ *
+.duckdb
+.env 
+.venv/
